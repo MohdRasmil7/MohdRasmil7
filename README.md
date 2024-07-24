@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdrasmil7&label=Profile%20views&color=0e75b6&style=flat" alt="mohdrasmil7" /> </p>
 
-- 📫 How to reach me **muhammedrasmil2001@gmail.com**
-
-**💡 About Me**
+<h3> About Me 💡 </h3>
 
  I am a passionate Data Scientist with a keen interest in Machine Learning and Artificial Intelligence. With a strong background in data analysis and model development, I enjoy solving complex problems and deriving insights from data.
+
+- 📫 How to reach me **muhammedrasmil2001@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
