@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdrasmil7&label=Profile%20views&color=0e75b6&style=flat" alt="mohdrasmil7" /> </p>
 
 <h3> About Me 💡 </h3>
-I am a passionate Data Scientist with expertise in Machine Learning, Artificial Intelligence, and advanced techniques like Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). With 6 months of experience as a data science intern, I excel in data analysis, model development, and problem-solving, aiming to drive impactful results through innovative solutions.
+<p>I am a passionate Data Scientist with expertise in Machine Learning, Artificial Intelligence, and advanced techniques like Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). With 6 months of experience as a data science intern, I excel in data analysis, model development, and problem-solving, aiming to drive impactful results through innovative solutions.</p>
+
 
 📫 How to reach me **muhammedrasmil2001@gmail.com**
  
