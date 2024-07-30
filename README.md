@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdrasmil7&label=Profile%20views&color=0e75b6&style=flat" alt="mohdrasmil7" /> </p>
 
 <h3> About Me 💡 </h3>
-<p>I am a driven Data Scientist with a BTech in Information Technology, bringing hands-on experience in Machine Learning, Artificial Intelligence, and cutting-edge techniques such as Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). My 8 months of data science internship experience have honed my skills in data analysis, model development, and delivering innovative solutions to complex problems. I am passionate about leveraging advanced technologies to drive significant and impactful results in every project I undertake.</p>
+<p>I am a driven Data Scientist with a BTech in Information Technology, bringing hands-on experience in Machine Learning, Artificial Intelligence, and cutting-edge techniques such as Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). My data science internship experience have honed my skills in data analysis, model development, and delivering innovative solutions to complex problems. I am passionate about leveraging advanced technologies to drive significant and impactful results in every project I undertake.</p>
 
 
 
