@@ -10,7 +10,7 @@
 
 <p align="center">📫 How to reach me <a href="muhammedrasmil2001@gmail.com"><b>muhammedrasmil2001@gmail.com</b></a>  </p>
  
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,git,aws,docker" /><br>
     <img src="https://skillicons.dev/icons?i=python,fastapi,anaconda,regex,scikitlearn,tensorflow" /><br>
