@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdrasmil7&label=Profile%20views&color=0e75b6&style=flat" alt="mohdrasmil7" /> </p>
 <h3 align="center">AI/ML Engineer 🧑‍💻</h3>
 
-<p align="center">I am a driven AI/ML Engineer with a BTech in Information Technology, bringing hands-on experience in Machine Learning, Artificial Intelligence, and cutting-edge techniques such as Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). My experience in AI/ML engineering has honed my skills in data analysis, model development, and delivering innovative solutions to complex problems. I am passionate about leveraging advanced technologies to drive significant and impactful results in every project I undertake.</p>
+<p align="center">I'm an AI/ML Engineer with a BTech in Information Technology, specializing in Machine Learning, AI, RAG, and LLMs. I’m passionate about using advanced tech to solve complex problems and deliver impactful results.</p>
 
 
 
