@@ -17,7 +17,4 @@
 </div>
 
 
-
-
-[![](https://github.com/MohdRasmil7/MohdRasmil7/blob/main/github-user-contribution.svg)]
-
+![](https://github.com/MohdRasmil7/MohdRasmil7/blob/main/github-user-contribution.svg)
