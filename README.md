@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome,+Explorer+🔍;+I'm+Muhammed+Rasmil!;&color=5b7d5d" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome,+Explorer+🔍;+I'm+Muhammed+Rasmil!;&color=5e3c66" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdrasmil7&label=Profile%20views&color=0e75b6&style=flat" alt="mohdrasmil7" /> </p>
