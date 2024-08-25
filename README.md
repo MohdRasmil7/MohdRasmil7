@@ -19,4 +19,11 @@
 </div>
 
 
-![](https://github.com/MohdRasmil7/MohdRasmil7/blob/main/github-user-contribution.svg)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MohdRasmil7/MohdRasmil7/blob/main/github-user-contribution-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MohdRasmil7/MohdRasmil7/blob/main/github-user-contribution-light.svg">
+    <img src="https://github.com/MohdRasmil7/MohdRasmil7/blob/main/github-user-contribution-light.svg" alt="GitHub User Contribution" style="display: block; margin: 0 auto;">
+  </picture>
+</div>
+
