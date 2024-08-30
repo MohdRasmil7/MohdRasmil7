@@ -8,8 +8,9 @@
 <p align="center">I’m a passionate AI/ML Engineer specializing in Machine Learning, AI, and advanced techniques like Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). My expertise spans data analysis, model development, and deployment, enabling me to deliver innovative solutions and drive impactful results in every project.</p>
 
 
+<p align="center">🌐 Portfolio <a href="https://muhammedrasmil.netlify.app"><b>muhammedrasmil.com</b></a>  </p>
+<p align="center">📫 How to reach me <a href="mailto:muhammedrasmil2001@gmail.com">muhammedrasmil2001@gmail.com</a></p>
 
-<p align="center">📫 How to reach me <a href="muhammedrasmil2001@gmail.com"><b>muhammedrasmil2001@gmail.com</b></a>  </p>
  
 <h3 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
