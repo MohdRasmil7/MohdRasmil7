@@ -8,15 +8,14 @@
 <p align="center">I’m a passionate AI/ML Engineer specializing in Machine Learning, AI, and advanced techniques like Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). My expertise spans data analysis, model development, and deployment, enabling me to deliver innovative solutions and drive impactful results in every project.</p>
 
 
-<p align="center">🌐 Portfolio <a href="https://muhammedrasmil.netlify.app"><b>muhammedrasmil.com</b></a>  </p>
 <p align="center">📫 How to reach me <a href="mailto:connectrasmil@gmail.com">connectrasmil@gmail.com</a></p>
 
 
  
 <h3 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,anaconda,regex,scikitlearn,tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,git,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,anaconda,scikitlearn,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,github,git,docker,azure" /><br>
     
 </div>
 
